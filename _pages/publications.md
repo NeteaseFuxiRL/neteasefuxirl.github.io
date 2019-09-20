@@ -8,9 +8,17 @@ author_profile: true
 
 ## 2019
 * Value Function Transfer for Deep Multi-Agent Reinforcement Learning Based on N-Step Returns
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
 * Reinforcement Learning Experience Reuse with Policy Residual Representation
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
 * Deep Multi-Agent Reinforcement Learning with Discrete-Continuous Hybrid Action Spaces
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
 * Explicitly Coordinated Policy Iteration
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
 
 ## 2018 
 *  A Deep Bayesian Policy Reuse Approach Against Non-Stationary Agent
