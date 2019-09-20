@@ -6,21 +6,20 @@ author_profile: true
 ---
 
 
-## Locations of key files/directories
+## 2019
+* Value Function Transfer for Deep Multi-Agent Reinforcement Learning Based on N-Step Returns
+* Reinforcement Learning Experience Reuse with Policy Residual Representation
+* Deep Multi-Agent Reinforcement Learning with Discrete-Continuous Hybrid Action Spaces
+* Explicitly Coordinated Policy Iteration
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-  
+## 2018 
+*  A Deep Bayesian Policy Reuse Approach Against Non-Stationary Agent
+*  Recurrent Deep Multiagent Q-Learning for Autonomous Brokers in Smart Grid
+[Download paper here](http://academicpages.github.io/files/paper1.pdf) 
 
 
-{% if author.googlescholar %}
+
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -28,4 +27,4 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
