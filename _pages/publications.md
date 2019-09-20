@@ -14,18 +14,24 @@ author_profile: true
 <br />[PDF](http://academicpages.github.io/files/paper1.pdf)
 
 3. Haotian Fu, Hongyao Tang, Jianye Hao, Zihan Lei, Yingfeng Chen, Changjie Fan. **Deep Multi-Agent Reinforcement Learning with Discrete-Continuous Hybrid Action Spaces**, _Proceedings of International Joint Conference on Artificial Intelligence (IJCAI 2019)_
-[PDF](http://academicpages.github.io/files/paper1.pdf)
+<br />[PDF](http://academicpages.github.io/files/paper1.pdf)
 
 4. Yujing Hu, Yingfeng Chen, Changjie Fan, Jianye Hao. **Explicitly Coordinated Policy Iteration,** _Proceedings of International Joint Conference on Artificial Intelligence (IJCAI 2019)_
-[PDF](http://academicpages.github.io/files/paper1.pdf)
+<br />[PDF](http://academicpages.github.io/files/paper1.pdf)
+
+5. Linjing Zhang, Zongzhang Zhang, Zhiyuan Pan, Yingfeng Chen, Jiangcheng Zhu, Zhaorong Wang, Meng Wang, Changjie Fan. **A framework of dual replay buffer: balancing forgetting and generalization in reinforcement learning,** _Proceedings of International Joint Conference on Artificial Intelligence (IJCAI 2019 Workshop)_
+<br />[PDF](http://academicpages.github.io/files/paper1.pdf)
+
+6. Yan Zheng, Ruiming Shen, Xiaofei Xie, Jianye Hao et al. **Wuji: Automatic Online Combat Game Testing Using Evolutionary Deep Reinforcement Learning,**_The 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019)_ [***distinguished paper candidate***]
+<br />[PDF](http://academicpages.github.io/files/paper1.pdf)
 
 
 ## 2018 
 1. Yan Zheng,Zhaopeng Meng, Jianye Hao, Zongzhang Zhang, Tianpei Yang, Changjie Fan. **A Deep Bayesian Policy Reuse Approach Against Non-Stationary Agent**, _Proceedings of the 32nd International Conference on Neural Information Processing Systems (NIPS 2018)_
-[PDF](http://academicpages.github.io/files/paper1.pdf) 
+<br />[PDF](http://academicpages.github.io/files/paper1.pdf) 
 
 2. **Recurrent Deep Multiagent Q-Learning for Autonomous Brokers in Smart Grid,** _Proceedings of International Joint Conference on Artificial Intelligence (IJCAI 2018)_
-[PDF](http://academicpages.github.io/files/paper1.pdf) 
+<br />[PDF](http://academicpages.github.io/files/paper1.pdf) 
 
 
 
