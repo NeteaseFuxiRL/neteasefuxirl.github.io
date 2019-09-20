@@ -8,10 +8,10 @@ author_profile: true
 
 ## 2019
 1. Yong Liu, Yujing Hu, Yang Gao, Yingfeng Chen, Changjie Fan. **Value Function Transfer for Deep Multi-Agent Reinforcement Learning Based on N-Step Returns,** _Proceedings of International Joint Conference on Artificial Intelligence (IJCAI 2019)_
-[PDF](http://academicpages.github.io/files/paper1.pdf)
+<br />[PDF](http://academicpages.github.io/files/paper1.pdf)
 
 2. Wen-Ji Zhou, Yang Yu, Yingfeng Chen, Kai Guan, Tangjie Lv, Changjie Fan, Zhi-Hua Zhou. **Reinforcement Learning Experience Reuse with Policy Residual Representation,** _Proceedings of International Joint Conference on Artificial Intelligence (IJCAI 2019)_
-[PDF](http://academicpages.github.io/files/paper1.pdf)
+<br />[PDF](http://academicpages.github.io/files/paper1.pdf)
 
 3. Haotian Fu, Hongyao Tang, Jianye Hao, Zihan Lei, Yingfeng Chen, Changjie Fan. **Deep Multi-Agent Reinforcement Learning with Discrete-Continuous Hybrid Action Spaces**, _Proceedings of International Joint Conference on Artificial Intelligence (IJCAI 2019)_
 [PDF](http://academicpages.github.io/files/paper1.pdf)
