@@ -27,7 +27,7 @@ author_profile: true
 
 
 ## 2018 
-1. Yan Zheng,Zhaopeng Meng, Jianye Hao, Zongzhang Zhang, Tianpei Yang, Changjie Fan. **A Deep Bayesian Policy Reuse Approach Against Non-Stationary Agent**, _Proceedings of the 32nd International Conference on Neural Information Processing Systems (NIPS 2018)_
+1. Yan Zheng, Zhaopeng Meng, Jianye Hao, Zongzhang Zhang, Tianpei Yang, Changjie Fan. **A Deep Bayesian Policy Reuse Approach Against Non-Stationary Agent**, _Proceedings of the 32nd International Conference on Neural Information Processing Systems (NIPS 2018)_
 <br />[PDF](http://academicpages.github.io/files/paper1.pdf) 
 
 2. Yaodong Yang, Jianye Hao, Mingyang Sun, Zan Wang, Changjie Fan, Goran Strbac. **Recurrent Deep Multiagent Q-Learning for Autonomous Brokers in Smart Grid,** _Proceedings of International Joint Conference on Artificial Intelligence (IJCAI 2018)_

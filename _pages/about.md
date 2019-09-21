@@ -8,7 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Fuxi AI RL team introduction.
+RL team in Netease Fuxi AI Lab 
+======
+abc
+
+Members
+======
+abc
+
+[About Fuxi Lab](https://fuxi.163.com/en/index.html)
+======
+NetEase Fuxi Lab is considered as the professional game AI research division in China. Dr. Harry Shum, an NAE foreign member who is worldly-known for his research on artificial intelligence has joined us as our chief advisor. Fuxi is founded on the principle of bridging artificial intelligence and electronic games through transdisciplinary research. We use cutting-edge technologies to reshape the audiovisual experience of our gamers. In the meantime, the mass data and virtual environment provided by our game platform also enable us to boost the development of AI frontier research.
+
+We focus on researching big data platform, user persona, reinforcement learning, computer vision & graphics, natural language processing, speech synthesis & music generation, and their potentiality in game industry. All of our team members have both professional education background (THU, PKU, ZJU, USTC, WHU, etc.) and strong practice aptitude.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
